@@ -92,7 +92,7 @@
                     <span style="margin-left: 30px;">#1</span>
                 </p>
 
-                <hr class="line">
+                <hr class="line" />
 
                 <p style="margin-top: 20px;">
                     <span style="color: hsla(360, 100%, 52%, 1); font-weight: 700;">أسم الكفر</span>
@@ -116,7 +116,7 @@
                 </p>
 
 
-                <hr class="line">
+                <hr class="line" />
                 <p style="margin-top: 10px;">
                     <span>المجموع الكلي</span>
                     <span class="price"><span>3400</span> ريال</span>
