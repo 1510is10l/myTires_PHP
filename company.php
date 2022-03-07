@@ -240,7 +240,7 @@
                 </div>
             </div>
         </div>
-        <hr>
+        <hr/>
         <p class="copyright">
             جميع الحقوق محفوظة | <span class="myTires">كفراتي</span> &copy; <span id="year"></span>
         </p>
