@@ -7,7 +7,7 @@
     <meta name="description" content="كفراتي هو نقطة بيع بين العميل و الشركة أطلب كفرك و أنت في بيتك" />
     <meta name="keywords" content="كفرات, سيارات, كفراتي, سيارة, تصليح, صيانة, عالم السيارات, بيع, شراء" />
     <link rel="shortcut icon" href="./images/fav.png" type="image/x-icon"/>
-    <link rel="shortcut icon" href="./assets/images/fav.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./assets/images/fav.png" type="image/x-icon"/>
     <title>كفراتي | الصفحة الرئيسية</title>
 
     <!-- Font awesome cdn link -->
