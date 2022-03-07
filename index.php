@@ -1,3 +1,8 @@
+<?php
+include './model/Db.php';
+$conn = new Db();
+$conn->connect();
+?>
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
