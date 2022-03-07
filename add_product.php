@@ -28,8 +28,6 @@
 
         <p class="name_company">أسم الشركة</p>
 
-        </div>
-
     </header>
     <!-- نهاية رأس الصفحة -->
 
