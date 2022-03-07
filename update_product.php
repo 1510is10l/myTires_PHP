@@ -39,7 +39,7 @@
                 <div class="formImg">
 
                     <input type="file" name="file" class="file_input" hidden/>
-                    <img src="./assets/images/add_product.png" width="50px" alt="">
+                    <img src="./assets/images/add_product.png" width="50px" alt=""/>
                     <p>أختار الصورة</p>
 
                 </div>
@@ -88,7 +88,7 @@
             </div>
 
             </form>
-    
+            </div>
         </div>
         
     </div>
